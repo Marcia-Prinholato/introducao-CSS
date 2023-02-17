@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+
+}
+p { color:rgb(224, 64, 184)}
+#segundo { background-color: rgb(13, 245, 222);
+     color :tomato;
+      border: 2px solid black;
+     border-radius: 10px;
+    font-size: 50px;}
+
+    .diferente {
+        background-color: rgb(175, 245, 13);
+        color :rgb(228, 215, 212);
+         border: 2px solid black;
+        border-radius: 10px;
+       font-size: 50px;}
+        
+    
